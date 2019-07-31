@@ -1,0 +1,23 @@
+{
+  "name": "coreymauger-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigshoemaker/coreymauger-resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigshoemaker/coreymauger-resume/issues"
+  },
+  "homepage": "https://github.com/craigshoemaker/coreymauger-resume#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
